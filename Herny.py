@@ -1,4 +1,4 @@
-Hola Hector!
+print('Hola Hector!')
 
 a = 5
 b = 6
